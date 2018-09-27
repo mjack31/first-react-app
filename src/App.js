@@ -5,6 +5,7 @@ import MoviesList from './components/movies_list';
 import SearchBar from './components/search_bar';
 import MovieDetails from './components/movie_details';
 
+// Underscore libs
 import _ from 'underscore';
 
 // YouTube lib and key
